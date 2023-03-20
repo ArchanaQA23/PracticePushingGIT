@@ -7,6 +7,7 @@ public class Sample {
 	 void dis()
 	{
 		System.out.println(a);
+		 System.out.println("Adding changes in remote");
 	}
 	
 
